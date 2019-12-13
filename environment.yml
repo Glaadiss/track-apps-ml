@@ -6,3 +6,6 @@ dependencies:
  - requests
  - psycopg2
  - env-file
+ - seaborn
+ - sklearn
+ - flask
